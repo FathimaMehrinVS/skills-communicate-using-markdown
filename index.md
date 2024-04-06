@@ -12,3 +12,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 ###### Now I had added 2 code examples.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+###### Now I had made a task list with checkboxes.
